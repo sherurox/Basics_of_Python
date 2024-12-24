@@ -9,3 +9,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 4_Tuples
 
 5_Dictionary
+
+6_Operators
