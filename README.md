@@ -11,3 +11,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 5_Dictionary
 
 6_Operators
+
+7_Functions_and_Methods
