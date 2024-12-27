@@ -15,3 +15,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 7_Functions_and_Methods
 
 8_Types_of_Errors
+
+9_Decision_Making_Conditioning
