@@ -18,4 +18,4 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 
 9_Decision_Making_Conditioning
 
-10_Loops
+10_Loop
