@@ -29,3 +29,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 14_Json
 
 15_Built_in_Functions
+
+16_Numpy
