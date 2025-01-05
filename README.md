@@ -31,3 +31,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 15_Built_in_Functions
 
 16_Numpy
+
+17_Indexing_and_slicing
