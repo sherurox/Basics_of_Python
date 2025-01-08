@@ -33,3 +33,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 16_Numpy
 
 17_Indexing_and_slicing
+
+17_Methods_for_Numpy
