@@ -39,3 +39,5 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 18_Slicing_2D_Matrix_and_conditional_selection
 
 19_Operations_on_Numpy
+
+20_Series
