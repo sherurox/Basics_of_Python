@@ -44,4 +44,4 @@ Welcome to my zero to hero repo where I have covered all concepts from scratch t
 
 21_Dataframes
 
-22_Manipulation_of_Dataframes
+2_Manipulation_of_Dataframes
